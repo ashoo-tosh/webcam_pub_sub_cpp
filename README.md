@@ -99,6 +99,7 @@ Displays them using cv::imshow.
 
 Example Output
 
+
 When you run both nodes, you’ll see:
 
 In the publisher terminal:
@@ -113,6 +114,7 @@ In the subscriber terminal:
 
 
 and a live webcam feed window will appear.
+<img width="1920" height="1080" alt="Screenshot from 2025-11-02 20-55-34" src="https://github.com/user-attachments/assets/72bb9681-df0a-4777-95c8-b49308045e2f" />
 
 Author
 
