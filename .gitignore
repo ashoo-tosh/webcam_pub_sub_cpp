@@ -1,0 +1,17 @@
+# ROS2 build folders
+build/
+install/
+log/
+
+# VSCode and IDE configs
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+
+# Mac and system files
+.DS_Store
+
+# Colcon metadata
+.colcon/
